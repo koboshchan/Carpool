@@ -33,5 +33,24 @@
     }
   ],
   "defaultPlaces": [],
-  "defaultRides": []
+  "defaultRides": [],
+  "defaultSchools": [
+    {
+      "name": "Carp Test University",
+      "shortName": "CTU",
+      "domain": "example.com",
+      "code": "CTU",
+      "location": {
+        "city": "Boston",
+        "province": "MA",
+        "country": "USA"
+      },
+      "settings": {
+        "allowPublicRegistration": true,
+        "requireEmailVerification": false,
+        "requireDomainMatch": false
+      },
+      "isActive": true
+    }
+  ]
 }
