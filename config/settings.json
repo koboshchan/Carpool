@@ -14,6 +14,12 @@
       "signUpUrl": "/signup",
       "signInFallbackRedirectUrl": "/my-rides",
       "signUpFallbackRedirectUrl": "/onboarding"
+    },
+    "map": {
+      "tileServerUrl": "https://tile.openstreetmap.org",
+      "tileStylePath": "",
+      "nominatimUrl": "https://nominatim.openstreetmap.org",
+      "osrmUrl": "https://router.project-osrm.org"
     }
   },
   "private": {
