@@ -29,7 +29,10 @@
     },
     "clerk": {
       "secretKey": "sk_test_bwTGgj7MUYzb4GjCNI4mM2lBY8xgVvXLlTW1rTjwBm"
-    }
+    },
+    "adminEmails": [
+      "iscurt.w@gmail.com"
+    ]
   },
   "defaultAccounts": [
     {
